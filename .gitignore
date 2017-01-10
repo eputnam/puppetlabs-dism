@@ -1,8 +1,7 @@
 pkg/
 Gemfile.lock
 Gemfile.local
-spec/fixtures/manifests/
-spec/fixtures/modules/
+spec/fixtures/
 log/
 junit/
 .vagrant/
